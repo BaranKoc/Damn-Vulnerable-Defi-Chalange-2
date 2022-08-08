@@ -28,14 +28,12 @@ Contact gets the repayment from **address borrower** but anybody can call **flas
 
 So the solution is just calling **flashLoan** function with **address borrower == receivers address** from any kind of account, until all ETH funds in the user's contract is gone.
 
-
-⚠️ **When developing defi protocol, never forget check sender**
-
-<br> </br>
+---
 
 So put this code to **test/naive-receiver/naive-receiver.challenge.js** exploit function
 ![s4](pictures/s4.png) 
 
+⚠️ **When developing defi protocol, never forget to check sender**
 
 ## How to test it
 got to ➡️ [Damn Vulnerable Defi - Chalange #2](https://www.damnvulnerabledefi.xyz/challenges/2.html). Clone their repository as mentioned and put [solution code](Solution.txt) to his place.
