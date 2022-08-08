@@ -35,7 +35,7 @@ So put this code to **test/naive-receiver/naive-receiver.challenge.js** exploit 
 
 
 ## How to test it
-got to ➡️ [Damn Vulnerable Defi - Chalange #2](https://www.damnvulnerabledefi.xyz/challenges/2.html). Clone their repository as mentioned and put solution code to his place.
+got to ➡️ [Damn Vulnerable Defi - Chalange #2](https://www.damnvulnerabledefi.xyz/challenges/2.html). Clone their repository as mentioned and put [solution code](Solution.txt) to his place.
 
 Then you can just type `yarn run naive-receiver`
 
